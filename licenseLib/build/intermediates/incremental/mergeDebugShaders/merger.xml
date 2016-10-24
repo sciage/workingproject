@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\harish\Downloads\Compressed\voiceme\licenseLib\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\harish\Downloads\Compressed\voiceme\licenseLib\src\debug\shaders"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\harish\project\workingproject\licenseLib\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Users\harish\project\workingproject\licenseLib\src\debug\shaders"/></dataSet></merger>

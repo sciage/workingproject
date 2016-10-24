@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/licenseLib/licenseLib.iml" filepath="$PROJECT_DIR$/licenseLib/licenseLib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/voiceme.iml" filepath="$PROJECT_DIR$/voiceme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workingproject.iml" filepath="$PROJECT_DIR$/workingproject.iml" />
     </modules>
   </component>
 </project>
