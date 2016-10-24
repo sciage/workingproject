@@ -19,14 +19,14 @@ repositories {
 // apply plugin: 'me.tatarka.retrolambda'
 
 android {
-    signingConfigs {
+ /*   signingConfigs {
         config {
             storeFile file('C:/Users/harish/Desktop/VoicemeKeyStore.jks')
             keyAlias 'VoicemeAlias'
             keyPassword 'hemlata1'
             storePassword 'shambhavi12345'
         }
-    }
+    } */
     compileSdkVersion 24
     buildToolsVersion "24.0.3"
     defaultConfig {
@@ -47,7 +47,7 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            signingConfig signingConfigs.config
+//            signingConfig signingConfigs.config
         }
     }
 }
